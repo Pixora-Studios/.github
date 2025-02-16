@@ -12,53 +12,6 @@ At Pixora Studios, our mission is to **bridge creativity with technology** to de
 
 To be a **leading web agency** recognized for innovation, quality, and contributions to the open-source ecosystem. We aim to build a strong developer community while providing businesses with top-tier digital solutions.
 
-## **Our Services**
-
-### 1. **Web Design**
-
-We design stunning, user-friendly, and intuitive websites tailored to your brand identity. Our expertise includes:
-
-- UI/UX Design
-- Responsive & Mobile-First Design
-- Interactive & Motion UI
-- Design Systems & Branding
-- Creative web development
-
-### 2. **Web Development**
-
-From simple websites to complex web applications, we build high-performance digital solutions, including:
-
-- Custom Frontend & Backend Development
-- Single Page Applications (Product branding, Landing)
-- CMS & E-commerce Development
-- API Development & Integration
-
-### 3. **Web Solutions & Consulting**
-
-We provide strategic guidance and technical expertise to help businesses overcome web-related challenges:
-
-- Performance Optimization
-- SEO & Accessibility Enhancements
-- Code Audits & Refactoring
-- DevOps & Deployment Strategies
-
-### 4. **Open-Source Contributions & Product Development**
-
-At Pixora Studios, we are committed to **giving back to the web community** by developing open-source tools and innovative web-related products. Our contributions include:
-
-- UI Component Libraries
-- Developer Productivity Tools
-- Framework & Plugin Enhancements
-- Educational Content & Tutorials
-
-## **Why Choose Pixora Studios?**
-
-✅ **Innovation-Driven** – We stay ahead of industry trends to deliver **future-proof** solutions.\
-✅ **User-Centric Approach** – We prioritize usability and accessibility for seamless experiences.\
-✅ **Scalability & Performance** – Our solutions are optimized for **speed, reliability, and growth**.\
-✅ **Commitment to Open Source** – We believe in **community-driven development** and knowledge-sharing.\
-✅ **Tailored Solutions** – Every project is unique, and we build **customized** solutions to fit your needs.
-
 ## **Let’s Build Something Amazing!**
 
 Are you looking for a **modern, high-quality web solution**? Want to collaborate on **open-source projects**? Reach out to us today!\
